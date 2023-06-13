@@ -37,3 +37,11 @@ while(i<1000){
   i++;
 }
 console.timeEnd("whileloop")
+
+alert("Hai")
+let var1 = prompt("Enter the value of a");
+var1 = Number.parseInt(var1)
+let write = confirm("Write it on DOM?")
+if(write){
+  document.write(var1)
+}
