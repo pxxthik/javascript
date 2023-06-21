@@ -18,3 +18,8 @@ console.log(a.parentNode)
 console.log(a.parentElement)
 
 console.log(a.firstChild.nextSibling)
+
+let b = document.body
+console.log("Hello world")
+console.log(b.firstChild)
+console.log(b.firstElementChild)
