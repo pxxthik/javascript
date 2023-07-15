@@ -1,0 +1,19 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+#glowingBulb {
+    height: 40px;
+    width: 40px;
+    margin: 12px;
+    border-radius: 50%;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.dark {
+    background-color: #000;
+}
